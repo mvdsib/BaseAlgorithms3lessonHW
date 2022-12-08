@@ -1,0 +1,15 @@
+D:\Учеба\Продакт менеджмент\Знакомство с языками программирования\BaseAlgorithm\HomeWork3.7\bin\Debug\net6.0\HomeWork3.7.exe
+D:\Учеба\Продакт менеджмент\Знакомство с языками программирования\BaseAlgorithm\HomeWork3.7\bin\Debug\net6.0\HomeWork3.7.deps.json
+D:\Учеба\Продакт менеджмент\Знакомство с языками программирования\BaseAlgorithm\HomeWork3.7\bin\Debug\net6.0\HomeWork3.7.runtimeconfig.json
+D:\Учеба\Продакт менеджмент\Знакомство с языками программирования\BaseAlgorithm\HomeWork3.7\bin\Debug\net6.0\HomeWork3.7.dll
+D:\Учеба\Продакт менеджмент\Знакомство с языками программирования\BaseAlgorithm\HomeWork3.7\bin\Debug\net6.0\HomeWork3.7.pdb
+D:\Учеба\Продакт менеджмент\Знакомство с языками программирования\BaseAlgorithm\HomeWork3.7\obj\Debug\net6.0\HomeWork3.7.csproj.AssemblyReference.cache
+D:\Учеба\Продакт менеджмент\Знакомство с языками программирования\BaseAlgorithm\HomeWork3.7\obj\Debug\net6.0\HomeWork3.7.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учеба\Продакт менеджмент\Знакомство с языками программирования\BaseAlgorithm\HomeWork3.7\obj\Debug\net6.0\HomeWork3.7.AssemblyInfoInputs.cache
+D:\Учеба\Продакт менеджмент\Знакомство с языками программирования\BaseAlgorithm\HomeWork3.7\obj\Debug\net6.0\HomeWork3.7.AssemblyInfo.cs
+D:\Учеба\Продакт менеджмент\Знакомство с языками программирования\BaseAlgorithm\HomeWork3.7\obj\Debug\net6.0\HomeWork3.7.csproj.CoreCompileInputs.cache
+D:\Учеба\Продакт менеджмент\Знакомство с языками программирования\BaseAlgorithm\HomeWork3.7\obj\Debug\net6.0\HomeWork3.7.dll
+D:\Учеба\Продакт менеджмент\Знакомство с языками программирования\BaseAlgorithm\HomeWork3.7\obj\Debug\net6.0\refint\HomeWork3.7.dll
+D:\Учеба\Продакт менеджмент\Знакомство с языками программирования\BaseAlgorithm\HomeWork3.7\obj\Debug\net6.0\HomeWork3.7.pdb
+D:\Учеба\Продакт менеджмент\Знакомство с языками программирования\BaseAlgorithm\HomeWork3.7\obj\Debug\net6.0\HomeWork3.7.genruntimeconfig.cache
+D:\Учеба\Продакт менеджмент\Знакомство с языками программирования\BaseAlgorithm\HomeWork3.7\obj\Debug\net6.0\ref\HomeWork3.7.dll
